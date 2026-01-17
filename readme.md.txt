@@ -5,15 +5,15 @@ Une interface graphique moderne et fluide développée avec **Python 3.14.2**. C
 [Image représentant l'interface de l'application avec son menu latéral violet]
 
 ## Fonctionnalités
-* *Animation Fluide** : Menu latéral coulissant avec transition progressive[cite: 10].
-* *Design Personnalisé** : Utilisation d'un dictionnaire de couleurs (`nero`, `purple`, `white`) pour une UI cohérente[cite: 10].
-* *Rendu Graphique** : Utilisation d'un `Canvas` pour intégrer des images de fond et des superpositions de texte[cite: 10].
-* *Gestion d'État** : Logique de commutation intelligente pour l'ouverture et la fermeture des menus[cite: 10].
+* *Animation Fluide** : Menu latéral coulissant avec transition progressive
+* *Design Personnalisé** : Utilisation d'un dictionnaire de couleurs (`nero`, `purple`, `white`) pour une UI cohérente.
+* *Rendu Graphique** : Utilisation d'un `Canvas` pour intégrer des images de fond et des superpositions de texte.
+* *Gestion d'État** : Logique de commutation intelligente pour l'ouverture et la fermeture des menus.
 
 ## Spécifications Techniques
-* *Langage** : Python 3.14.2 [cite: 10]
-* *Bibliothèque GUI** : Tkinter [cite: 10]
-* *Génération d'icônes** : Script utilitaire utilisant la bibliothèque Pillow[cite: 10].
+* *Langage** : Python 3.14.2 
+* *Bibliothèque GUI** : Tkinter 
+* *Génération d'icônes** : Script utilitaire utilisant la bibliothèque Pillow
 
 ##  Organisation des Fichiers
 * `navbar.py` : Script principal de l'application
@@ -29,3 +29,4 @@ Une interface graphique moderne et fluide développée avec **Python 3.14.2**. C
    ```bash
 
    pip install Pillow
+
