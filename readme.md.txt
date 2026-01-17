@@ -16,8 +16,8 @@ Une interface graphique moderne et fluide développée avec **Python 3.14.2**. C
 * *Génération d'icônes** : Script utilitaire utilisant la bibliothèque Pillow[cite: 10].
 
 ##  Organisation des Fichiers
-* `navbar.py` : Script principal de l'application[cite: 10].
-* `logo2.py` : Script de création de l'icône système[cite: 10].
+* `navbar.py` : Script principal de l'application
+* `logo2.py` : Script de création de l'icône système
 * `menu.png` : Icône d'ouverture de la barre de navigation.
 * `close.png` : Icône de fermeture (à renommer depuis `lose.png`).
 * `back_image3.png` : Image d'arrière-plan du tableau de bord.
@@ -27,4 +27,5 @@ Une interface graphique moderne et fluide développée avec **Python 3.14.2**. C
 1. **Prérequis** :
    Assurez-vous que Python 3.14.2 est installé. Pour le script d'icône, installez Pillow :
    ```bash
+
    pip install Pillow
